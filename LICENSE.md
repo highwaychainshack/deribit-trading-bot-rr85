@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with new deribit trading bot Plugin | price-monitoring + isolated-margin, the #1 deribit trading bot. Includes price-monitoring and isolated-margin for a
 
 
 
